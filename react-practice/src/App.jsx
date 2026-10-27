@@ -1,7 +1,5 @@
-import Welcome from "./welcome.jsx";
-
 function App() {
-  return <Welcome />;
+  return <Student name="Rahul" />;
 }
 
 export default App;
